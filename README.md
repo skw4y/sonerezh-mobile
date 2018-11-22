@@ -32,14 +32,14 @@ Mobile Preview
 
 Installation
 ------------
--Make a backup of your Sonerezh "app" directory (e.g. /var/www/sonerezh/app) or only the following files :
+- Make a backup of your Sonerezh "app" directory (e.g. /var/www/sonerezh/app) or only the following files :
     app/View/Layouts/default.ctp
     app/webroot/css/style.css
     app/webroot/js/navigation.js
 
--Download an unzip the project
+- Download an unzip the project
 
--Copy "app" directory in your Sonerezh folder (e.g. /var/www/sonerezh/app)
+- Copy "app" directory in your Sonerezh folder (e.g. /var/www/sonerezh/app)
 
 
 
