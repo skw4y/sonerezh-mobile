@@ -11,20 +11,20 @@ Tested on Firefox with Sonerezh v1.2.4
 
 
 
-Preview
+Desktop Preview
 ------------
-Desktop:
-
 Before:
 ![](preview/desktop_before.png)
+
 
 After:
 ![](preview/desktop_after.png)
 
 
-Mobile:
-
+Mobile Preview
+------------
 ![](preview/mobile1.png)
+
 
 ![](preview/mobile2.png)
 
