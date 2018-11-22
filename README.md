@@ -33,9 +33,9 @@ Mobile Preview
 Installation
 ------------
 - Make a backup of your Sonerezh "app" directory (e.g. /var/www/sonerezh/app) or only the following files :
-    app/View/Layouts/default.ctp
-    app/webroot/css/style.css
-    app/webroot/js/navigation.js
+    - app/View/Layouts/default.ctp
+    - app/webroot/css/style.css
+    - app/webroot/js/navigation.js
 
 - Download an unzip the project
 
