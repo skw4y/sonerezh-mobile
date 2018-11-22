@@ -14,24 +14,27 @@ Tested on Firefox with Sonerezh v1.2.4
 Preview
 ------------
 Desktop:
+
 ![](preview/desktop_before.png)
 ![](preview/desktop_after.png)
 
 Mobile:
+
 ![](preview/mobile1.png)
 ![](preview/mobile2.png)
 
 
 
-Pre-installation
-------------
-- Make a backup of your Sonerezh "app" directory (/var/www/sonerezh/app) or only the files :
-
-
-
 Installation
 ------------
-Copy
+-Make a backup of your Sonerezh "app" directory (e.g. /var/www/sonerezh/app) or only the following files :
+    app/View/Layouts/default.ctp
+    app/webroot/css/style.css
+    app/webroot/js/navigation.js
+
+-Download an unzip the project
+
+-Copy "app" directory in your Sonerezh folder (e.g. /var/www/sonerezh/app)
 
 
 
