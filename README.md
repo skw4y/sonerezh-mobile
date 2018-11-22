@@ -15,12 +15,17 @@ Preview
 ------------
 Desktop:
 
+Before:
 ![](preview/desktop_before.png)
+
+After:
 ![](preview/desktop_after.png)
+
 
 Mobile:
 
 ![](preview/mobile1.png)
+
 ![](preview/mobile2.png)
 
 
