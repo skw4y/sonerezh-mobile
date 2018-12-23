@@ -153,6 +153,12 @@ div#timebar.slider{
     cursor: pointer;
 }
 
+ul.player-controls li span{
+    height: 100%;
+    width: 100%;
+    line-height: 65px;
+}
+
 ul.player-controls.volume li.volumeicon .glyphicon{
     margin-right: 5px;
 }
