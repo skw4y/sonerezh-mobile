@@ -118,7 +118,6 @@ nav .search .search-input{
     margin-top: 50px;
     height: 65px;
     z-index: 1020;
-    /*border: none;*/
     box-shadow: 0 2px 4px 0 rgba(0,0,0,.15);
 }
 
@@ -302,7 +301,7 @@ body, body.modal-open {
 }
 
  tr[data-id]{
- 	cursor: pointer;
+     cursor: pointer;
  }
 
 .table>tbody>tr>td.track-number{
@@ -315,9 +314,12 @@ body, body.modal-open {
 }
 
 .truncated-name {
-    white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+}
+
+.truncated {
+    white-space: nowrap;
 }
 
 .separator-right {
@@ -399,17 +401,17 @@ body, body.modal-open {
 }
 
 .band-name{
-	margin-bottom: 25px;
+    margin-bottom: 25px;
 }
 
 .band-stats{
-	margin: -8px auto;
-	font-style: italic;
-	color: #999;
+    margin: -8px auto;
+    font-style: italic;
+    color: #999;
 }
 
 .disc-number{
-	margin: 10px 0;
+    margin: 10px 0;
     text-transform: uppercase;
 }
 
@@ -423,9 +425,9 @@ body, body.modal-open {
 }
 
 .song-controls {
-	color: #999;
-	margin: 0 2px;
-	padding: 0 2px;
+    color: #999;
+    margin: 0 2px;
+    padding: 0 2px;
     cursor: pointer;
 }
 

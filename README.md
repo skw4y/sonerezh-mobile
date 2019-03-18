@@ -5,7 +5,7 @@ Some Sonerezh theme hacks for a better mobile experience :
 - Next/Previous icon modification
 - More space for the playing controls (play/next/previous)
 - Navbar collapse fix
-- Some controls are hidden
+- Some controls are hidden on XS screens
 
 Tested on Firefox with Sonerezh v1.2.4
 
@@ -13,20 +13,12 @@ Tested on Firefox with Sonerezh v1.2.4
 
 Desktop Preview
 ------------
-Before:
-![](preview/desktop_before.png)
-
-
-After:
-![](preview/desktop_after.png)
+![](preview/desktop.png)
 
 
 Mobile Preview
 ------------
-![](preview/mobile1.png)
-
-
-![](preview/mobile2.png)
+![](preview/mobile.png)
 
 
 
@@ -34,8 +26,10 @@ Installation
 ------------
 - Make a backup of your Sonerezh "app" directory (e.g. /var/www/sonerezh/app) or only the following files :
     - app/View/Layouts/default.ctp
+    - app/View/Elements/artists_view.ctp
     - app/webroot/css/style.css
     - app/webroot/js/navigation.js
+    - app/webroot/js/player-nav.js
 
 - Download an unzip the project
 
